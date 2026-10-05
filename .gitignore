@@ -1,0 +1,8 @@
+﻿processed_data/
+Forest-Fire-Cleaned/
+Forest-Fire-Cleaned-dataV2/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
